@@ -1,2 +1,3 @@
 # retention_gaming_company
-wrote a function that will count retention of players by days from the date of registration
+Написала функцию, которая будет считать retention игроков по дням от даты регистрации  
+Имеются: датафрейм с временем регистрации пользователей и датафрейм с данными об авторизациях
